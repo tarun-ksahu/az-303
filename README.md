@@ -14,7 +14,7 @@ https://charbelnemnom.com/passed-az-303-exam-microsoft-azure-architect-technolog
 
 # Video courses
 - [John Savill's azure masterclass](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
-I highly encourage you to watch his other videos as well.
+I highly encourage you to watch other videos of his as well.
 - [Pluralsight (free, sponsored by Microsoft)](https://www.pluralsight.com/partners/microsoft/azure)
 - [Pluralsight AZ-303 path](https://www.pluralsight.com/paths/microsoft-azure-architect-technologies-az-303)
 - Create free Pluralsight account with Visual Studio Dev Essentials.
