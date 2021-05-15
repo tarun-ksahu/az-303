@@ -20,10 +20,3 @@ I highly encourage you to watch other videos of his as well.
 - Create free Pluralsight account with Visual Studio Dev Essentials.
 Signup [here](https://my.visualstudio.com/), 
 Once you signup, you will be able to see an offer for pluralsight account for one month that you can activate. It provides access to the complete Pluralsight library. I encourage you to register since it provides other benefits like linkedin learning and datacamp as well, among others.
-
-# Practice tests
-- Exam topics (go through the comments for each tests since there are some incorrect answers that are discussed in detail)
-
-[AZ-303](https://www.examtopics.com/exams/microsoft/az-303/)
-
-[AZ-300](https://www.examtopics.com/exams/microsoft/az-300/)
